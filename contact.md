@@ -6,9 +6,6 @@ description: Contact
 
 For general inquiries or to discuss your software development needs, please contact us. Our team is ready to assist you with bespoke solutions that will help you take your business to the next level. You can reach us via email or phone. We look forward to hearing from you!
 
-Phone: 1300 236 625
-
-Email: contact@origma.com.au
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
