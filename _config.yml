@@ -1,1 +1,7 @@
+title: Origma
+email: contact@origma.com.au
+url: "https://origma.com.au"
 
+remote_theme: zerostaticthemes/jekyll-serif-theme@v1.3
+plugins:
+- jekyll-remote-theme
