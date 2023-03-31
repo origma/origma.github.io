@@ -4,7 +4,11 @@ layout: contact
 description: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+For general inquiries or to discuss your software development needs, please contact us. Our team is ready to assist you with bespoke solutions that will help you take your business to the next level. You can reach us via email or phone. We look forward to hearing from you!
+
+Phone: 1300 236 625
+
+Email: contact@origma.com.au
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
@@ -12,5 +16,5 @@ Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de 
 | Wednesday | 8:30am - 5:00pm |
 | Thursday  | 8:30am - 5:00pm |
 | Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
+| Saturday  | Closed          |
 | Saturday  | Closed          |
