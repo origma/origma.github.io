@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 626 587" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:10;">
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <rect id="Page-1" serif:id="Page 1" x="0" y="0" width="150.23" height="140.876" style="fill:none;"/>
+        <clipPath id="_clip1">
+            <rect id="Page-11" serif:id="Page 1" x="0" y="0" width="150.23" height="140.876"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g id="Layer-1" serif:id="Layer 1">
+                <g transform="matrix(-0.465434,-0.885083,-0.885083,0.465434,103.078,23.0398)">
+                    <path d="M-62.043,18.111L5.949,18.111C6.475,30.832 -0.197,43.328 -12.215,49.648C-28.844,58.393 -49.414,52.001 -58.159,35.372C-61.057,29.86 -62.293,23.915 -62.043,18.111" style="fill:rgb(207,91,40);fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,26.2918,87.1274)">
+                    <path d="M0,-40.198C0.028,-39.969 0.684,-35.359 0.888,-33.265C1.647,-25.481 3.343,-8.107 4.113,-0.204C4.689,5.704 6.789,11.395 10.396,16.109C10.628,16.412 10.869,16.718 11.12,17.024C18.71,26.314 30.561,31.037 42.512,29.998L77.07,26.992C78.04,26.908 79.015,27.082 79.896,27.497L112.57,42.873L56.357,-64.024C51.362,-73.522 42.227,-80.329 31.603,-81.841C31.225,-81.894 30.844,-81.942 30.46,-81.983C20.335,-83.071 10.548,-77.922 5.309,-69.19C3.718,-66.537 2.441,-63.72 1.507,-60.798L-16.503,-49.179L0,-40.198Z" style="fill:none;fill-rule:nonzero;stroke:rgb(3,4,5);stroke-width:10px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
